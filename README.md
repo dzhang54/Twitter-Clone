@@ -2,7 +2,7 @@
 
 **Twitter Demo** is a basic twitter app to read and compose tweets the [Twitter API](https://apps.twitter.com/).
 
-Time spent: **16** hours spent in total
+Time spent: **20** hours spent in total
 
 ## User Stories
 
@@ -26,14 +26,14 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. AutoLayouts!!!!!
-2. Session requests!!!
+1. Autolayout regarding apps
+2. GET/POST requests
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
+<a href="http://imgur.com/2YJYcEe"><img src="http://i.imgur.com/2YJYcEe.gif" title="source: imgur.com" /></a>
 
-https://drive.google.com/file/d/0B2UXk_RdqZ5QY0tIMWtTNWlTcHM/view?usp=sharing
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -45,7 +45,7 @@ with everything. This was a major challenge for me.
 
 ## License
 
-    Copyright [2016] [Daricus Duncan]
+    Copyright [2016] [Daniel Zhang]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
