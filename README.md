@@ -32,6 +32,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
+
 <a href="http://imgur.com/2YJYcEe"><img src="http://i.imgur.com/2YJYcEe.gif" title="source: imgur.com" /></a>
 
 
