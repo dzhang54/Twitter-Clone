@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Twitter
 //
-//  Created by DrDunkan on 2/15/16.
-//  Copyright © 2016 Daricus Duncan. All rights reserved.
+//  Created by Daniel Zhang on 2/22/16.
+//  Copyright © 2016 Daniel Zhang. All rights reserved.
 //
 
 import UIKit
